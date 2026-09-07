@@ -1,0 +1,13 @@
+{
+  "name": "my-standards-marketplace",
+  "owner": {
+    "name": "Josh Schulterbrandt"
+  },
+  "plugins": [
+    {
+      "name": "my-standards",
+      "source": ".",
+      "description": "Personal coding standards and conventions covering code style, testing practices, and workflow preferences."
+    }
+  ]
+}
